@@ -16,3 +16,4 @@ git branch new_feature - создать ветку
 git checkout new_feature - переключиться
 git checkout -b new_feature - создать и переключиться сразу
 get branch -d new_feature - удалить ветку
+get merge new_feature - cлить ветки (нужно вызывать в ветку, в которую нужно добавить информацию)
