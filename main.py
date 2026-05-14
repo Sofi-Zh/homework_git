@@ -1,6 +1,5 @@
-print("Hello, Git")
+print("Hello, Sofi`")
 print("Измененона GitHub")
 print("Изменено локально")
-
 
 
