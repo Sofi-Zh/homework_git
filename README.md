@@ -6,7 +6,7 @@ git init
 git add .
 git commit -m "first commit"
 git remote set-url origin git@github.com:Sofi-Zh/homework_git.git (тут ссылка на нужный репозиторий)
-(когда я вызыываю git remote add origin  https://github.com/Sofi-Zh/homework_git.git, запрашивается логин и пароль)
+(когда я вызыываю ggeit remote add origin  https://github.com/Sofi-Zh/homework_git.git, запрашивается логин и пароль)
 git branch -M main
 git push -u origin main
 
