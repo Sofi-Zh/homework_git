@@ -1,4 +1,4 @@
 print("Hello, Git")
-print("Изменено на GitHub")
+print("Измененона GitHub")
 print("Изменено локально")
 
